@@ -1,0 +1,616 @@
+{
+ "aTi1TitleCardTex": "Titania\nArid Desert",
+ "aAndTitleCardEnTex": "Venom\nAndross' Homeworld",
+ "aAndTitleCardJpTex": "〜悪の根源〜\n惑星ベノム",
+ "aAqTitleCardTex": "Aquas Ocean",
+ "aA6TitleCardTex": "Area 6\nDefense Station",
+ "aBoTitleCardTex": "Bolse Defense Outpost",
+ "aCoTitleCardTex": "Corneria\nFormer Army Base",
+ "aFoTitleCardTex": "Fortuna\nFormer Defense Post",
+ "aKaTitleCardTex": "Katina\nFrontline Base",
+ "aMaTitleCardTex": "Macbeth\nVenom Army Supply Base",
+ "aMapA6NameCardTex": "Area 6\nDefense Station",
+ "aMapA6TitleCardTex": "Through the Middle",
+ "aMapAqNameCardTex": "Aquas Ocean",
+ "aMapAqTitleCardTex": "Terror of the Deep",
+ "aMapBoNameCardTex": "Bolse Defense Outpost",
+ "aMapBoTitleCardTex": "The Last Hurrah",
+ "aMapCoNameCardTex": "Corneria\nFormer Army Base",
+ "aMapCoTitleCardTex": "Enter Star Fox",
+ "aMapFoNameCardTex": "Fortuna\nFormer Defense Post",
+ "aMapFoTitleCardTex": "Enter Star Wolf",
+ "aMapKaNameCardTex": "Katina\nFrontline Base",
+ "aMapKaTitleCardTex": "Reunion",
+ "aMapMaNameCardTex": "Macbeth\nVenom Army Supply Base",
+ "aMapMaTitleCardTex": "The Forever Train",
+ "aMapMeNameCardTex": "Meteo\nAsteroid Field",
+ "aMapMeTitleCardTex": "Into the Asteroid Field",
+ "aMapSoNameCardTex": "Solar",
+ "aMapSoTitleCardTex": "Out of the Frying Pan...",
+ "aMapSxNameCardTex": "Sector X Combat Zone",
+ "aMapSxTitleCardTex": "Mystery of the Space Base",
+ "aMapSyNameCardTex": "Sector Y Combat Zone",
+ "aMapSyTitleCardTex": "Fierce Melee",
+ "aMapSzNameCardTex": "Sector Z Combat Zone",
+ "aMapSzTitleCardTex": "The Ambush of Great Fox",
+ "aMapTiNameCardTex": "Titania\nArid Desert",
+ "aMapTiTitleCardTex": "The Search for Slippy",
+ "aMapZoNameCardTex": "Zoness\nToxic Waste Area",
+ "aMapZoTitleCardTex": "Invasion Aftermath",
+ "aMapLylatSystemCardTex": "The Lylat System",
+ "aMapRetryCourseGameOverTex": {
+  "text": "Restart Game\n(Game Over)",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aMapRetryCourseLose1UPTex": {
+  "text": "Retry Course\n(Lose 1 Arwing)",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aMeTitleCardTex": "Meteo\nAsteroid Field",
+ "aSxTitleCardTex": "Sector X Combat Zone",
+ "aSyTitleCardTex": "Sector Y Combat Zone",
+ "aSzTitleCardTex": "Sector Z Combat Zone",
+ "aSoTitleCardTex": "Solar",
+ "aTrTitleCardTex": "Training",
+ "aTiTitleCardTex": "Titania\nArid Desert",
+ "aVe1StatusScreenTitleCardTex": "Venom\nAndross' Homeworld",
+ "aVe1TitleCardJPTex1": "〜悪の根源〜\n惑星ベノム",
+ "aVe1TitleCardJPTex2": "決戦",
+ "aVe1TitleCardTex": "Battle with Andross",
+ "aVe2StatusTitleCardTex": "Venom\nAndross' Homeworld",
+ "aVe2TitleCardJPTex1": "〜悪の根源〜\n惑星ベノム",
+ "aVe2TitleCardJPTex2": "最終決戦!!",
+ "aVe2TitleCardTex": "The Final Battle",
+ "aZoTitleCardTex": "Zoness\nToxic Waste Area",
+ "aContinueTex": "Continue",
+ "aRetryCourseTex": "Retry Course",
+ "aDataCardTex": "Data",
+ "aExpertCardTex": "Expert",
+ "aMainGameCardTex": "Main Game",
+ "aOptClearSaveDataTex": "Clear Saved Data",
+ "aOptPressRToTestTex": "Press R to test",
+ "aRankingCardTex": "Ranking",
+ "aSoundCardTex": "Sound",
+ "aTrainingCardTex": "Training",
+ "aVsBattleRoyalCardTex": "Battle Royal",
+ "aVsCardTex": "VS.",
+ "aVsPointMatchCardTex": "Point Match",
+ "aVsTimeTrialCardTex": "Time Trial",
+ "aOptHeadphoneTex": "Headphone",
+ "aTextACCOM": "ACCOM",
+ "aTextAccumTotal": "Accumulated Total",
+ "aTextCOMP": "COMP",
+ "aTextEnd": "END",
+ "aTextEnemiesDown": {
+  "text": "Enemies\nDown",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aTextFalco": "Falco",
+ "aTextKanjiCOMPLETE": "完",
+ "aTextKanji_END": "終",
+ "aTextLETE": "LETE",
+ "aTextMISSION": "MISSION",
+ "aTextMissionNo": "Mission No.",
+ "aTextPLISHED": "PLISHED",
+ "aTextPeppy": "Peppy",
+ "aTextSlippy": "Slippy",
+ "aTextStatusOfTeam": "Status of Team",
+ "aText_THE_END": "THE END",
+ "aTitleArwingCardTex": "Arwing",
+ "aTitleFalcoCard": "Falco Lombardi",
+ "aTitleFoxCard": "Fox McCloud",
+ "aTitleGreatFoxCardTex": "Great Fox",
+ "aTitlePeppyCard": "Peppy Hare",
+ "aTitleSlippyCard": "Slippy Toad",
+ "aTitlePressStartTex": "Press START",
+ "aTitleCopyrightTex": "®",
+ "aTitleUnusedNintendoCopyright": {
+  "text": "©1996 NINTENDO",
+  "italic": true
+ },
+ "aVsFalcoNameTex": "Falco",
+ "aVsFoxNameTex": "Fox",
+ "aVsPeppyNameTex": "Peppy",
+ "aVsSlippyNameTex": "Slippy",
+ "aVsTextContTex": "CONT.",
+ "aVsTextCorneriaTex": "Corneria",
+ "aVsTextKatinaTex": "Katina",
+ "aVsTextSectorZTex": "Sector Z",
+ "aBetaHitTex": "HIT!",
+ "aBetaPauseTex": {
+  "text": "PAUSE",
+  "italic": true
+ },
+ "aBetaShieldTextTex": "SHIELD",
+ "aBonusHitPlusTex": "HIT+",
+ "aBossTextTex": "BOSS",
+ "aIntroStarfoxLogoTex": "S T A R F O X",
+ "aItemBombLetterTex": {
+  "text": "B",
+  "fg": [
+   255,
+   255,
+   255
+  ],
+  "bg": [
+   10,
+   10,
+   10
+  ]
+ },
+ "aItemLaserUpgradeLetterTex": {
+  "text": "L",
+  "fg": [
+   255,
+   255,
+   255
+  ],
+  "bg": [
+   10,
+   10,
+   10
+  ]
+ },
+ "aNintendoLogoTex": {
+  "text": "1997\nNintendo\nPRESENTS",
+  "weights": [
+   0.8,
+   1.2,
+   0.7
+  ]
+ },
+ "aOptEnemyHitCountTex": {
+  "text": "Venomian units destroyed:\n\nTotal amount due:",
+  "align": "left",
+  "weights": [
+   1,
+   0.6,
+   1
+  ],
+  "fg": [
+   0,
+   0,
+   0
+  ],
+  "bg": [
+   255,
+   255,
+   255
+  ]
+ },
+ "aOptAreYouREALLYSureTex": {
+  "text": "Are you\nREALLY sure?",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aOptAreYouSureTex": "Are you sure?",
+ "aOptCornerianArmyAttnTex": {
+  "text": "Cornerian Army  Attn: Gen. Pepper\nPayment due for services rendered",
+  "weights": [
+   1.1,
+   0.9
+  ],
+  "fg": [
+   0,
+   0,
+   0
+  ],
+  "bg": [
+   255,
+   255,
+   255
+  ]
+ },
+ "aOptDataErasedTex": "Data erased",
+ "aOptInvoiceTex": "Invoice",
+ "aOptMonoTex": "Mono",
+ "aOptMusicVolumeTex": "Music",
+ "aOptNoTex": "No",
+ "aOptSfxVolumeTex": "SE",
+ "aOptSoundModeTex": "Mode",
+ "aOptSoundtrackTex": "Soundtrack",
+ "aOptStereoTex": "Stereo",
+ "aOptVoiceVolumeTex": "Voice",
+ "aOptYesTex": "Yes",
+ "aVsHandicapLvl1Tex": {
+  "text": "Lv.1",
+  "italic": true
+ },
+ "aVsHandicapLvl2Tex": {
+  "text": "Lv.2",
+  "italic": true
+ },
+ "aVsHandicapLvl3Tex": {
+  "text": "Lv.3",
+  "italic": true
+ },
+ "aVsPlayerNum1Tex": {
+  "text": "1",
+  "italic": true
+ },
+ "aVsPlayerNum2Tex": {
+  "text": "2",
+  "italic": true
+ },
+ "aVsPlayerNum3Tex": {
+  "text": "3",
+  "italic": true
+ },
+ "aVsPlayerNum4Tex": {
+  "text": "4",
+  "italic": true
+ },
+ "aOptSignatureTex": {
+  "text": "Mercenary Unit\nSTAR FOX\nFox McCloud",
+  "weights": [
+   0.7,
+   1.2,
+   1.0
+  ],
+  "fg": [
+   20,
+   20,
+   20
+  ],
+  "bg": [
+   255,
+   255,
+   255
+  ]
+ },
+ "aTitle1997NintendoTex": "©1997 Nintendo",
+ "D_VS_MENU_7000490": {
+  "text": "決定\nACCEPT",
+  "weights": [
+   1.3,
+   0.8
+  ]
+ },
+ "D_VS_MENU_7001030": "Handicap",
+ "D_VS_MENU_7001270": "Stage Select",
+ "D_VS_MENU_7001DF0": "Point Match",
+ "D_VS_MENU_7002110": "Battle",
+ "D_VS_MENU_70024D0": "1Min.",
+ "D_VS_MENU_7002730": "2Min.",
+ "D_VS_MENU_7002990": "3Min.",
+ "D_VS_MENU_7002BF0": "4Min.",
+ "D_VS_MENU_7002E50": "5Min.",
+ "D_VS_MENU_7003650": "OK?",
+ "D_VS_MENU_7003830": "WAIT",
+ "D_VS_MENU_70044D0": {
+  "text": "SELECT\nMACHINE",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aAtoConfirmTex": "A to confirm",
+ "aAwArwingItemLasersTex2": {
+  "text": "REPAIR",
+  "font": "rubik"
+ },
+ "aBonusGREATTex": "GREAT!",
+ "aCommonJPTex4": {
+  "text": "コースをやりなおす\nゲームをやりなおす\n(GAME OVER)",
+  "weights": [
+   1,
+   1,
+   1
+  ]
+ },
+ "aMapChangeCourseTex": "Change Course",
+ "aMapJpTex1": {
+  "text": "スタートボタン\nで\nメニューウィンドウ",
+  "weights": [
+   1,
+   0.8,
+   1
+  ]
+ },
+ "aRestartGameTex": {
+  "text": "Restart Game\n(Game Over)",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aSzBossTitleTex": {
+  "text": "宙域間対艦ミサイル\nマクベスB.",
+  "weights": [
+   0.8,
+   1.2
+  ]
+ },
+ "aTitleNoControllerTex": "NO controller",
+ "aTrQuitTrainingEnTex": "Quit Training",
+ "D_versus_3001420": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "DRAW"
+ },
+ "D_versus_3004010": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "WINS!"
+ },
+ "D_versus_3004F60": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "FALCO"
+ },
+ "D_versus_3006040": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "FOX"
+ },
+ "D_versus_3006C60": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "GO!!"
+ },
+ "D_versus_30076C0": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "PEPPY"
+ },
+ "D_versus_30087A0": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "1"
+ },
+ "D_versus_3008EC0": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "2"
+ },
+ "D_versus_3009990": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "3"
+ },
+ "D_versus_300A470": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "READY"
+ },
+ "D_versus_300B3F0": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "SLIPPY"
+ },
+ "D_versus_300C660": {
+  "italic": true,
+  "grad": [
+   [
+    255,
+    235,
+    60
+   ],
+   [
+    245,
+    110,
+    20
+   ]
+  ],
+  "rim": [
+   140,
+   10,
+   10
+  ],
+  "rim_w": 1,
+  "text": "WIN!"
+ },
+ "D_versus_30001E0": "Camera",
+ "D_versus_30003A0": "Retry",
+ "D_versus_3000510": "VS.Menu",
+ "D_versus_30006D0": "End",
+ "aMapProceedNextCourseTex": {
+  "text": "Proceed to\nNext Course",
+  "weights": [
+   1,
+   1
+  ]
+ },
+ "aCommonJPTex1": "コントローラへ",
+ "aCommonJPTex2": "ゲームへ",
+ "aCommonJPTex3": "つづける",
+ "aTrQuitTrainingJpTex": "トレーニング終了"
+}

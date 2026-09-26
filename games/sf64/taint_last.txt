@@ -1,0 +1,3 @@
+scanned 1946 textures/TLUTs (+decoded) and 1132 samples (bytes, PCM, books); 630 streams with short coincidental matches; 0 failing (run >= 32 B)
+kept facts, not scanned: audio_seq.bin (note data), soundfont structure (books/loop states regenerated), asm (boot code, microcode, libultra), Torch geometry/animation/script C
+done
